@@ -1,0 +1,2 @@
+cc -I. -c gnuplot_i.c
+cc -o xxx xxx.c gnuplot_i.o
